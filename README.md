@@ -6,4 +6,4 @@ My google doodle is based on the world cup. This world cup will be in 2022 locat
 
 ## Resources
 * [Coffee icon from Icon Monster](https://iconmonstr.com/coffee-10-svg/)
-* [Oswald Google Font]()
+*

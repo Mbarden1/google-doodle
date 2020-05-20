@@ -16,10 +16,17 @@
   width: 600px;
 }
 
-#heart1 {
-  fill: red;
+#play, 
+#pause, 
+#reverse {
+  outline: 1px dashed red;
 }
 
-#heart2 {
-  fill: green;
+main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  
+  width: 600;
+  height: 300;
 }
