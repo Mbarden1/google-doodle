@@ -5,10 +5,11 @@ gsap.fromTo('#BIG_G',
   { x: 0, y: 0, opacity: 100 },
 
   { x: 150, 
-   y: 100, 
-   opacity: 1,
-  duration: 6,
+    y: 100, 
 
+   opacity: 1,
+   duration: 6,
+   delay: 3,
   }
 );
 
@@ -21,7 +22,7 @@ gsap.fromTo('#RED_O',
    y: 100, 
    opacity: 1,
   duration: 6,
-  delay: 3
+  delay: 3,
   }
 );
 
@@ -33,7 +34,7 @@ gsap.fromTo('#PLAYER_A',
    y: 0, 
    opacity: 1,
   duration: 6,
-  
+  delay: 3,
   }
 );
 
@@ -46,7 +47,7 @@ gsap.fromTo('#PLAYER_L',
    y: 100, 
    opacity: 1,
   duration: 6,
-  delay: 2,
+  delay: 3,
   }
 );
 
@@ -58,7 +59,7 @@ gsap.fromTo('#ORANGE_O',
    y: -170, 
    opacity: 0,
   duration: 1,
-
+  delay: 3,
   }
 );
 
@@ -70,7 +71,7 @@ gsap.fromTo('#Ball',
   { x: 170, 
    y: -170, 
    opacity: 0,
-  duration: 5,
+  duration: 3,
 
   }
 );
