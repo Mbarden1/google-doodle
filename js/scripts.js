@@ -51,17 +51,9 @@ gsap.fromTo('#PLAYER_L',
   }
 );
 
-gsap.fromTo('#ORANGE_O',
 
-  { x: 0, y: 0, opacity: 100 },
 
-  { x: 170, 
-   y: -170, 
-   opacity: 0,
-  duration: 1,
-  delay: 3,
-  }
-);
+
 
 
 gsap.fromTo('#Ball',
